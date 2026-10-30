@@ -1,5 +1,4 @@
 discord.py==2.4.0
 audioop-lts
 PyNaCl
-libffi-dev
 python-dev
