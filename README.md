@@ -10,4 +10,3 @@ This bot automatically moves anyone who deafens themselves to the "AFK" channel 
 <img width="927" height="99" alt="image" src="https://github.com/user-attachments/assets/18e6ffd6-750d-47ed-9de2-9e590199491e" />
 
 
-https://discord.com/oauth2/authorize?client_id=1439882391819780277&permissions=29370384&integration_type=0&scope=bot
