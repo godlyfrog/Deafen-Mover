@@ -4,8 +4,8 @@ import discord
 # ========= CONFIG VIA ENVIRONMENT VARIABLES =========
 # These must be set in Railway's "Variables" settings
 BOT_TOKEN = os.getenv("DISCORD_TOKEN")
-GUILD_ID = os.getenv("GUILD_ID")
-DEAFENED_CHANNEL_ID = os.getenv("DEAFENED_CHANNEL_ID")
+GUILD_ID = int(os.getenv("GUILD_ID"))
+DEAFENED_CHANNEL_ID = int(os.getenv("DEAFENED_CHANNEL_ID"))
 # ====================================================
 
 intents = discord.Intents.default()
